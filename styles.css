@@ -1,0 +1,7 @@
+.trigger{
+  display: flex !important;
+  justify-content: center;
+  width:100%;
+  flex-wrap:wrap !important;
+  background-color:#fff;
+}
