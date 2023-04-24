@@ -3,7 +3,7 @@
 Sx version of button
 
 ## Usage
-```markup
+```
 <Button hover="{{backgroundColor:{sm:"green", lg:"red"}}} click={()=>alert("test")}>
         test
     </Button>
