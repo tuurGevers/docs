@@ -3,10 +3,10 @@
 component for fade from transition directive
 
 ## Usage
-```markup
+```javascript
 <Fade duration={2000} delay={1000} instant>
     <Image src="favicon.png" alt="foto" sx={{width:{lg:"50%", sm:"100%"}, height:"auto", maxHeight:"400px"}}/>
-</Fly>
+</Fade>
 ```
 
 ## Properties
