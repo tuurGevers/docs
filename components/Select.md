@@ -3,7 +3,7 @@
 Sx selection menu
 
 ## Usage
-```markup
+```text
 <Select items={["nl", "es", "en"]} 
 selected="es" on:change={(e)=>alert(e.detail.value)}/>
 

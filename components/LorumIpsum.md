@@ -3,7 +3,7 @@
 Sx lorum ipsum test for developing
 
 ## Usage
-```markup
+```text
 <LorumIpsum/>
 
 ```

@@ -3,9 +3,9 @@
 component for fly from transition directive
 
 ## Usage
-```markup
+```text
 <Fly dir="y" amount="3000" duration={2000}>
-    <Image src="favicon.png" alt="foto" sx={{width:{lg:"50%", sm:"100%"}, height:"auto", maxHeight:"400px"}}/>
+    <Image src="favicon.png" alt="foto" sx={width:{lg:"50%", sm:"100%"}, height:"auto", maxHeight:"400px"}/>
 </Fly>
 ```
 

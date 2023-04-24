@@ -3,7 +3,7 @@
 Sx version of image
 
 ## Usage
-```markup
+```text
     <Image src="favicon.png" alt="foto" 
            sx={{width:{lg:"50%", sm:"100%"}, height:"auto", maxHeight:"400px"}}/>
 

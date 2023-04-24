@@ -3,7 +3,7 @@
 Sx version of sectioning
 
 ## Usage
-```markup
+```text
 <Link to="https://www.google.com" sx={{color:"blue"}}>
     link naar google
 </Link>

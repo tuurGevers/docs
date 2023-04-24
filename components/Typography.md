@@ -3,7 +3,7 @@
 Sx version of sectioning
 
 ## Usage
-```markup
+```text
     <Typography variant={1} sx={{"font-size":"4em"}}>dit is een titel in een box</Typography>
 ```
 
