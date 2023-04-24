@@ -4,7 +4,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-theme: minimal
+theme: minima
 include:
   - _components/FormButton.md
   - _components/TextArea.md
