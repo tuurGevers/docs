@@ -4,8 +4,7 @@ Sx version of button
 
 ## Usage
 ```markup
-<Button sx={{width:{sm:5, lg:20}}}
-            hover="{{backgroundColor:{sm:"green", lg:"red"}}} click={()=>alert("test")}">
+<Button hover="{{backgroundColor:{sm:"green", lg:"red"}}} click={()=>alert("test")}>
         test
     </Button>
 ```
