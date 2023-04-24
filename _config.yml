@@ -1,0 +1,29 @@
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - _components/FormButton.md
+  - _components/TextArea.md
+  - _components/TextField.md
+  - _components/TextUtil.md
+  - _navs/InlineNav.md
+  - _navs/Nav.md
+  - _navs/SideNav.md
+  - _Box.md
+  - _Button.md
+  - _CheckBox.md
+  - _Dialog.md
+  - _Fade.md
+  - _Fly.md
+  - _Image.md
+  - _Link.md
+  - _LorumIpsum.md
+  - _MediaQuery.md
+  - _P.md
+  - _Select.md
+  - _Typography.md
+  - _sx.md
